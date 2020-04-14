@@ -1,0 +1,9 @@
+{
+  "playerSpritePath": "Resources/Assets/Img/player2.png",
+  "playerPosition": {
+    "X": 100.0,
+    "Y": 100.0
+  },
+  "speed": 4.0,
+  "Mass": 10
+}
